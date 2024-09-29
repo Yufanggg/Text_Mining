@@ -7,11 +7,10 @@
    ### 2.1 Data structures: Vocab, Lexemes, and Stringstore
    ### 2.2 Data structures: Doc, Span, and Token
    ### 2.3 Word vectors and semantic similarity
-   
-       - item How does spaCy predict similarity?
-       - Similarity depends on the application context
-       - Combining predictions and rules
-       - Efficient phrase matching
+        *item How does spaCy predict similarity?*
+        *Similarity depends on the application context*
+        *Combining predictions and rules*
+         *Efficient phrase matching*
 ## 3. Text classification
    ### 3.1 Text feature extraction
    #### 3.1.1 The Bag of Word representation
@@ -24,8 +23,8 @@
    ### 3.2 classification of text documents using sparse features
    #### 3.2.1 Loading and vectorizing the 20 newsgroups text dataset
    #### 3.2.2 Analysis of a bag-of-words document classifier
-         ##### Model without metadata stripping
-         ##### Benchmarking classifiers
-         ##### Plot accuracy, training and test time of each classifier
+         *Model without metadata stripping*
+         *Benchmarking classifiers*
+         *Plot accuracy, training and test time of each classifier*
    
     
