@@ -1,8 +1,8 @@
 ## 1. Introduction to spaCy
-   1.1 Documents, spans and token
-   1.2 Lexical attributes
-   1.3 Pipelines
-   1.4 Rule-based matching
+   ### 1.1 Documents, spans and token
+   ### 1.2 Lexical attributes
+   ### 1.3 Pipelines
+   ### 1.4 Rule-based matching
 ## 2. Large-scale data analysis with spaCy
    2.1 Data structures: Vocab, Lexemes, and Stringstore
    2.2 Data structures: Doc, Span, and Token
