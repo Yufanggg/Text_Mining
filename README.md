@@ -8,7 +8,7 @@
    ### 2.2 Data structures: Doc, Span, and Token
    ### 2.3 Word vectors and semantic similarity
    
-       \item How does spaCy predict similarity?
+       - item How does spaCy predict similarity?
        - Similarity depends on the application context
        - Combining predictions and rules
        - Efficient phrase matching
